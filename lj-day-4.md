@@ -1,0 +1,2 @@
+Today, I learned about functions in JavaScript. I took my five individual questions and combined them into a function.  I also learned how to incorporate an array into that as well.  Our assignment today was to look over our partners code and correct any mistakes they may have made. Additionally, I also had to add functions in as well.
+As part of the process today I also had to learn the process of cloning my partners project onto my computer, making corrections and adding functions to it, and then sending it back.
