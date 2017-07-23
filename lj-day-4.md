@@ -45,4 +45,8 @@ Today was honestly the hardest day of the class so far.  For the assignment, I w
 
 day 9
 
-Today my time in lab was spent refining my Salmon Cookie project.  I finished my table for the sales and did some css to add some borders around the amounts and totals.  I also started adding the chat in their as well, which still needs a lot of work.  However, today i ran into some problems which took much longer than I thought.  For today I had to add a footer to my table, which consisted of a "grand totals rows". Although this problem took a long time to figure out, I feel I learned a lot more than previous days through this problem. 
+Today my time in lab was spent refining my Salmon Cookie project.  I finished my table for the sales and did some css to add some borders around the amounts and totals.  I also started adding the chat in their as well, which still needs a lot of work.  However, today i ran into some problems which took much longer than I thought.  For today I had to add a footer to my table, which consisted of a "grand totals rows". Although this problem took a long time to figure out, I feel I learned a lot more than previous days through this problem.
+
+day 10
+
+My biggest accomplishment and thing I learned today, was making the submit button.  Like everyday in lab, I found this task to be quite difficult.  It took me some time getting this thing up and running.  However it turns out that for while my code was actually right for the most part, yet I had a couple very tiny misspelled words that through my whole code off.  
