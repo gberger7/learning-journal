@@ -50,3 +50,7 @@ Today my time in lab was spent refining my Salmon Cookie project.  I finished my
 day 10
 
 My biggest accomplishment and thing I learned today, was making the submit button.  Like everyday in lab, I found this task to be quite difficult.  It took me some time getting this thing up and running.  However it turns out that for while my code was actually right for the most part, yet I had a couple very tiny misspelled words that through my whole code off.  
+
+Day 13
+
+Today I learned how to have three random images appear side-by-side and when clicked, three more pop up.  At the end of of 25 clicks, you cannot click anymore.  Overall, this lab was pretty difficult like all the labs.  I was really stuck on actually getting the random images to pop up different each time the window is clicked.  I eventually figured it out, but took quite some time.  
