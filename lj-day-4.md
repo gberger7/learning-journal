@@ -55,3 +55,7 @@ Day 13
 
 Today I learned how to have three random images appear side-by-side and when clicked, three more pop up.  At the end of of 25 clicks, you cannot click anymore.  Overall, this lab was pretty difficult like all the labs.  I was really stuck on actually getting the random images to pop up different each time the window is clicked.  I eventually figured it out, but took quite some time.  
 Hello
+
+Day 14
+
+Today I had to make three random pictures to appear and every time they are clicked.  What I learned was how to tally the votes as well as make sure the images don't duplicate and reappear the next click. 
