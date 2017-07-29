@@ -58,4 +58,8 @@ Hello
 
 Day 14
 
-Today I had to make three random pictures to appear and every time they are clicked.  What I learned was how to tally the votes as well as make sure the images don't duplicate and reappear the next click. 
+Today I had to make three random pictures to appear and every time they are clicked.  What I learned was how to tally the votes as well as make sure the images don't duplicate and reappear the next click.
+
+Day 15
+
+Today I some classmates and I purposely had to create a merge conflict, and then figure out how to fix it. With our final projects coming up, there are potentials that a merge conflict could happen, so I thought this was a great exercise for us to learn this before the project starts.
