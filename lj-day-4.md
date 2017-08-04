@@ -64,6 +64,10 @@ Day 15
 
 Today I some classmates and I purposely had to create a merge conflict, and then figure out how to fix it. With our final projects coming up, there are potentials that a merge conflict could happen, so I thought this was a great exercise for us to learn this before the project starts.
 
-Project Week Day 3
+Project Week/Day 3
 
 Through these first couple days, I have learned a ton of stuff.  It's been really cool to apply everything I have learned from lectures and labs to this project.  Often times in lectures and labs you are moving so fast you almost feel like you haven't learned anything.  However, I have noticed and been surprised in project week, of how much I have actually learned. I think one thing I have learned that has been encouraging to me, is that I feel I have gotten more of a hang of how to use CSS.  Before in labs it was a lot of guessing and hoping if something would work out, whereas I feel now, I almost know what I should do or change etc.
+
+Project Week/Day 4
+
+Today was a very encouraging day.  Our team already had our MVP the previous day so that was good because it gave a chance to fine tune some things as well as add some really cool finishing touches! One of the things I learned, was how to take a music file and add it to the html and js pages.
