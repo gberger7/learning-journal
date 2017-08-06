@@ -71,3 +71,7 @@ Through these first couple days, I have learned a ton of stuff.  It's been reall
 Project Week/Day 4
 
 Today was a very encouraging day.  Our team already had our MVP the previous day so that was good because it gave a chance to fine tune some things as well as add some really cool finishing touches! One of the things I learned, was how to take a music file and add it to the html and js pages.
+
+Project Final Day
+
+Today our team just added a couple finishing touches such as alerts and some functionality.  But most of the day had to do with getting ready for our presentation and make sure everything flowed smoothly.  After running through it a ton of times, I felt it went pretty well!
